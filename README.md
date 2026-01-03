@@ -6,7 +6,11 @@
 
 ###
 
-<h3 align="left">I am an AI and Machine Learning engineer with extensive expertise in developing practical, real-world applications across diverse domains including natural language processing, computer vision, finance, and healthcare. I specialize in leveraging advanced techniques such as transformers, LangChain, and fine-tuned large language models to design intelligent systems for complex tasks like sentiment analysis, credit risk modeling, and generative language processing.<br><br>My technical proficiency encompasses building robust deployment pipelines and scalable architectures using frameworks like Streamlit and FastAPI. I possess a strong foundation in sequence modeling techniques, including convolutional neural networks and LSTM architectures, enabling me to create predictive and generative language models. Additionally, I am skilled in exploratory data analysis, A/B testing, and the end-to-end deployment of machine learning and AI models to deliver impactful solutions in production environments.</h3>
+<h3 align="left">I am an AI and Machine Learning Engineer focused on building practical, production-ready intelligent systems that solve real-world problems across domains such as natural language processing, computer vision, finance, and healthcare.
+
+I work extensively with transformers, fine-tuned large language models, and LangChain to design end-to-end AI solutions for tasks such as sentiment analysis, credit risk modeling, and generative language applications. My experience includes building scalable ML pipelines and deploying models into production using FastAPI and Streamlit.
+
+I have a strong foundation in deep learning and sequence modeling, including CNN and LSTM architectures, along with hands-on expertise in exploratory data analysis, A/B testing, and model evaluation. I enjoy translating complex machine learning concepts into reliable, impactful systems used in real-world environments.</h3>
 
 ###
 
