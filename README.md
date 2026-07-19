@@ -3,15 +3,15 @@
 <h2 align="left">About Me</h2>
 
 <h3 align="left">
-I am an AI and Machine Learning Engineer focused on building practical, production-ready intelligent systems that solve real-world problems across domains such as natural language processing, computer vision, finance, and healthcare.
+I am an AI & Machine Learning Engineer focused on building production-ready intelligent systems powered by machine learning, deep learning, and large language models.
 </h3>
 
 <h3 align="left">
-I work extensively with transformers, fine-tuned large language models, and LangChain to design end-to-end AI solutions for tasks such as sentiment analysis, credit risk modeling, and generative language applications. My experience includes building scalable ML pipelines and deploying models into production using FastAPI and Streamlit.
+I specialize in LLM engineering, fine-tuning (LoRA/QLoRA), retrieval-augmented generation (RAG), AI agents, and transformer-based architectures to develop scalable applications across NLP, computer vision, finance, and healthcare. My work spans the complete AI lifecycle—from data preparation and model training to evaluation, optimization, deployment, and inference.
 </h3>
 
 <h3 align="left">
-I have a strong foundation in deep learning and sequence modeling, including CNN and LSTM architectures, along with hands-on expertise in exploratory data analysis, A/B testing, and model evaluation. I enjoy translating complex machine learning concepts into reliable, impactful systems used in real-world environments.
+I have hands-on experience building end-to-end AI systems using PyTorch, Hugging Face, LangChain, LangGraph, FastAPI, and Streamlit, with expertise in designing ML pipelines, integrating vector databases, and deploying real-world AI applications. I enjoy solving complex engineering challenges and transforming state-of-the-art research into practical, reliable products that deliver measurable impact..
 </h3>
 
 <h2 align="left">🧠 My Toolkit</h2>
